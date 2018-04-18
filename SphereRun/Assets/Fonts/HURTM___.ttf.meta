@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 010b46539c80f0144a3f7a55c7a7f9d8
+timeCreated: 1523778094
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HURTMOLD_
+  fontNames:
+  - HURTMOLD_
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
